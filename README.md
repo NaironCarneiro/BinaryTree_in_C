@@ -1,2 +1,3 @@
-# ArvoresBinariasemC
-Arquivos com projetos de Árvores Binárias em linguagem C.
+# BinaryTree_in_C
+Binary tree algorithms in C language.
+
